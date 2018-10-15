@@ -1,0 +1,2 @@
+C:\Users\swapnil\source\repos\VisitorsProjectAPI\VisitorsProjectAPI\obj\Debug\VisitorsProjectAPI.csprojAssemblyReference.cache
+C:\Users\swapnil\source\repos\VisitorsProjectAPI\VisitorsProjectAPI\obj\Debug\VisitorsProjectAPI.csproj.CoreCompileInputs.cache

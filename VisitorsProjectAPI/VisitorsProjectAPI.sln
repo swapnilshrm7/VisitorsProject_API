@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorsProjectAPI", "VisitorsProjectAPI\VisitorsProjectAPI.csproj", "{45694EA2-7381-410E-A4F2-A74EC75A16B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{BCE768B8-CA07-4B88-BE8F-E5FE7CC85BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45694EA2-7381-410E-A4F2-A74EC75A16B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45694EA2-7381-410E-A4F2-A74EC75A16B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45694EA2-7381-410E-A4F2-A74EC75A16B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45694EA2-7381-410E-A4F2-A74EC75A16B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE768B8-CA07-4B88-BE8F-E5FE7CC85BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE768B8-CA07-4B88-BE8F-E5FE7CC85BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE768B8-CA07-4B88-BE8F-E5FE7CC85BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE768B8-CA07-4B88-BE8F-E5FE7CC85BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C663ED-4477-49FC-AEA3-C13A5383986E}
+	EndGlobalSection
+EndGlobal
